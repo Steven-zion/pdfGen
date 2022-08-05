@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you https://fantasy.premierleague.com/leagues/auto-join/fqeeva run:
 
 ### `npm start`
 
