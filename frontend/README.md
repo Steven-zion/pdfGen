@@ -2,7 +2,7 @@
 
 ## Available Scripts
 
-In the project directory, you https://fantasy.premierleague.com/leagues/auto-join/fqeeva run:
+In the project directory, you run:
 
 ### `npm start`
 
